@@ -1,12 +1,12 @@
 def math():
-    A = 57
-    B = 7
+    a = 57
+    b = 7
 
-    print (A + B)
-    print (A * B)
-    mas = A + B
+    print (a + b)
+    print (a * b)
+    mas = a + b
     print (mas/2)
-    print (A//B)
-    print (A%B)
-    print (A/B)
+    print (a//b)
+    print (a%b)
+    print (a/b)
    
